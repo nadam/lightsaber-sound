@@ -1,0 +1,12 @@
+Simple app playing sounds of a Star Wars lightsaber in 4 variations based on the gyroscope and proximity sensors.
+
+- Start sound
+- Idle hum
+- Higher when you swing the saber
+- Hit sound when swinging fast in one direction or hitting something with the proximity sensor
+
+Lightsaber Sound is open source and licensed under Apache License, Version 2.0.
+
+The sounds are from:
+- http://theforce.net/fanfilms/postproduction/soundfx/saberfx_fergo.asp
+- http://www.mediacollege.com/downloads/sound-effects/star-wars/lightsaber/
